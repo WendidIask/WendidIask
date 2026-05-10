@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WendidIask
-- 👀 I’m interested in Informatics and Artificial Intelligence
+- 👀 I’m interested in Informatics
 
 <!---
 WendidIask/WendidIask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
